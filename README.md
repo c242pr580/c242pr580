@@ -23,4 +23,40 @@ Our team consists of talented individuals working across Machine Learning, Cloud
 | C504B4KY2286 | Louis Michael                             | C504B4KY2286@bangkit.academy        | Cloud Computing    | Institut Sains dan Bisnis Atma Luhur    |
 | C247B4KX3150 | Mulia Rahmah                              | C247B4KX3150@bangkit.academy        | Cloud Computing    | Universitas Lambung Mangkurat           |
 | C247B4KY2761 | Muhammad Baharuddin Yusuf                 | C247B4KY2761@bangkit.academy        | Cloud Computing    | Universitas Lambung Mangkurat           |
----
+
+## Contributors
+
+### Machine Learning Member
+Cloud Computing member is responsible for the development of the API service and deployment of the model. In sort, in this project Cloud Computing is responsible for Backend, Infrastructure, and DevOps.
+
+- Nurdiansyah Krisna Putra
+- Ilham Cahyo Saputro Wibowo
+- Muhammad Rosyid Hassan
+#### Individuals
+<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
+ <img src="image/krisna.png" width="64" height="64" />
+  <img src="image/ilham.png" width="64" height="64" />
+   <img src="image/hasan.png" width="64" height="64" />
+</div>
+
+### Mobile Development Member
+Mobile Development team responsibility is to Create an Android application, Collecting data from API supplied by Cloud Computing team, and implement the feature from Machine Learning and data to make sure the application run smoothly.
+
+- Jecksen Santoko
+#### Individuals
+<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
+  <img src="image/jeckson.png" width="64" height="64" />
+</div>
+
+### Cloud Computing Member
+Cloud Computing member is responsible for the development of the API service and deployment of the model. In sort, in this project Cloud Computing is responsible for Backend, Infrastructure, and DevOps.
+
+- Louis Michael
+- Muhammad Baharuddin Yusuf
+- Mulia Rahmah
+#### Individuals
+<div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
+ <img src="https://contrib.rocks/image?repo=c242pr580/Cloud-Computing" />
+  <img src="image/yusuf.png" width="64" height="64" />
+   <img src="image/mulia.png" width="64" height="64" />
+</div>
