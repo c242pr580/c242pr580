@@ -30,6 +30,8 @@ We are part of **Bangkit 2024 Batch 2**, a program focused on developing **Softw
 <img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20PAGE.jpeg" width="200">
 <img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20MITRA.jpeg" width="200">
 
+## ☁️ Cloud Computing Architecture
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/ERD%20(1).png">
 
 ## ✉️ Contact
 For more information, feel free to reach out via email at profile, Thank You.
