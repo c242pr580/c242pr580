@@ -9,26 +9,36 @@ We are part of **Bangkit 2024 Batch 2**, a program focused on developing **Softw
 
 ## 🚀 Application Preview
 ### Sign In
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/SPLASH.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/MAIN%20AUTH.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/REGISTER%20PAGE.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/LOGIN%20PAGE.jpeg" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/SPLASH.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/MAIN%20AUTH.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/REGISTER%20PAGE.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/LOGIN%20PAGE.jpeg" width="200">
+</div>
 
 ### Home
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/CUSTOMER%20PAGE.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/MITRA%20PAGE.jpeg" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/CUSTOMER%20PAGE.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/MITRA%20PAGE.jpeg" width="200">
+</div>
 
 ### Jobs
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/ADD%20JOBS.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/DETAIL%20PAGE.jpeg" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/ADD%20JOBS.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/DETAIL%20PAGE.jpeg" width="200">
+</div>
 
 ### History
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY.jpeg" width="200">
-<img src=https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY%20MITRA.jpeg width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY%20MITRA.jpeg" width="200">
+</div>
 
 ### Profile
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20PAGE.jpeg" width="200">
-<img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20MITRA.jpeg" width="200">
+<div style="display: flex; gap: 10px;">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20PAGE.jpeg" width="200">
+  <img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20MITRA.jpeg" width="200">
+</div>
 
 ## ☁️ Cloud Computing Architecture
 <img src="https://storage.googleapis.com/serabutinn-bucket/apps/ERD%20(1).png">
@@ -60,9 +70,9 @@ Machine learning member is responsible for the development of machine learning m
 - Muhammad Rosyid Hassan
 #### Individuals
 <div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
- <img src="image/krisna.png" width="64" height="64" />
+  <img src="image/krisna.png" width="64" height="64" />
   <img src="image/ilham.png" width="64" height="64" />
-   <img src="image/hasan.png" width="64" height="64" />
+  <img src="image/hasan.png" width="64" height="64" />
 </div>
 
 ### Mobile Development Member
@@ -82,7 +92,7 @@ Cloud Computing member is responsible for the development of the API service and
 - Mulia Rahmah
 #### Individuals
 <div style="display: grid; grid-template-columns: auto auto; gap: 10px;">
- <img src="https://contrib.rocks/image?repo=c242pr580/Cloud-Computing" />
+  <img src="https://contrib.rocks/image?repo=c242pr580/Cloud-Computing" />
   <img src="image/yusuf.png" width="64" height="64" />
-   <img src="image/mulia.png" width="64" height="64" />
+  <img src="image/mulia.png" width="64" height="64" />
 </div>
