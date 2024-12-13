@@ -7,6 +7,30 @@
 ## 📌 About Us
 We are part of **Bangkit 2024 Batch 2**, a program focused on developing **Software-as-a-Service** solutions in Indonesia. Our team is committed to learning and honing skills in technology that align with industry needs.
 
+## 🚀 Application Preview
+### Sign In
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/SPLASH.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/MAIN%20AUTH.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/REGISTER%20PAGE.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/LOGIN%20PAGE.jpeg" width="200">
+
+### Home
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/CUSTOMER%20PAGE.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/MITRA%20PAGE.jpeg" width="200">
+
+### Jobs
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/ADD%20JOBS.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/DETAIL%20PAGE.jpeg" width="200">
+
+### History
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY.jpeg" width="200">
+<img src=https://storage.googleapis.com/serabutinn-bucket/apps/HISTORY%20MITRA.jpeg width="200">
+
+### Profile
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20PAGE.jpeg" width="200">
+<img src="https://storage.googleapis.com/serabutinn-bucket/apps/PROFILE%20MITRA.jpeg" width="200">
+
+
 ## ✉️ Contact
 For more information, feel free to reach out via email at profile, Thank You.
 
