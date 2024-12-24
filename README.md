@@ -52,7 +52,7 @@ Our team consists of talented individuals working across Machine Learning, Cloud
 
 | Student ID   | Name                                      | Email                               | Learning Path      | University                        |
 |--------------|-------------------------------------------|-------------------------------------|--------------------|-----------------------------------|
-| M183B4KY3428 | Nurdiansyah Krisna Putra                  | M463B4KY1662@bangkit.academy        | Machine Learning   | Universitas Amikom Yogyakarta           |
+| M183B4KY3428 | Nurdiansyah Krisna Putra                  | M183B4KY3428@bangkit.academy        | Machine Learning   | Universitas Amikom Yogyakarta           |
 | M183B4KY1936 | Ilham Cahyo Saputro Wibowo                | M183B4KY1936@bangkit.academy        | Machine Learning   | Universitas Amikom Yogyakarta           |
 | M183B4KY3076 | Muhammad Rosyid Hassan                    | M183B4KY3076@bangkit.academy        | Machine Learning   | Universitas Amikom Yogyakarta           |
 | A172B4KY2048 | Jecksen Santoko                           | A172B4KY2048@bangkit.academy        | Mobile Development | Universitas Mikroskil                   |
